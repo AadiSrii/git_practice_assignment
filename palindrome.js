@@ -6,7 +6,7 @@
     {
         bag=bag+bag1[i];
     }
-    if(bag1=bag){
+    if(bag1==bag){
     console.log("Yes");
     }
     else{
